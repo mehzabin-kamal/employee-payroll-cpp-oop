@@ -1,15 +1,14 @@
+
 # Employee Payroll System using C++ OOP
 
-A beginner-friendly employee payroll system developed using C++ Object-Oriented Programming concepts. The project demonstrates how different employee types can have different salary calculations using inheritance and method overriding.
+A simple employee payroll system built using C++ Object-Oriented Programming. This project demonstrates how different employee types can be represented using inheritance and method overriding.
 
 ## Features
 
 * Base `Employee` class
 * `Manager`, `Developer`, and `Intern` classes
-* Employee details display
 * Salary calculation
-* Bonus calculation
-* Role-based payroll system
+* Employee details display
 * Simple console-based output
 
 ## OOP Concepts Used
@@ -17,7 +16,6 @@ A beginner-friendly employee payroll system developed using C++ Object-Oriented 
 * Class and Object
 * Constructor
 * Inheritance
-* Encapsulation
 * Method Overriding
 * Access Modifiers
 
@@ -26,13 +24,21 @@ A beginner-friendly employee payroll system developed using C++ Object-Oriented 
 * C++
 * Object-Oriented Programming
 
+## How to Run
+
+```bash
+g++ main.cpp -o payroll
+./payroll
+```
+
 ## Learning Outcome
 
-This project helped me understand how inheritance, constructors, encapsulation, and method overriding can be used to build a simple payroll management system.
+This project helped me understand basic C++ OOP concepts such as classes, objects, constructors, inheritance, and method overriding.
 
 ## Author
 
 Mehzabin Kamal
 CSE Undergraduate
 Bangladesh University of Professionals
+
 
